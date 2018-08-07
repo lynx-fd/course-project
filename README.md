@@ -1,2 +1,4 @@
 # course-project
-Mittag leffler distribution properties https://mybinder.org/v2/gh/lynx-fd/course-project/master?filepath=MittagLefflerParam.ipynb
+Mittag leffler distribution properties 
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lynx-fd/course-project/master)
